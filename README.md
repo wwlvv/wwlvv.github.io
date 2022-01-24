@@ -3,6 +3,4 @@
 
 ~~码是贺的别骂了别骂了~~
 
-开源自[星夜](https://github.com/arcxingye)
-的
-[吃掉小鹿乃](https://github.com/arcxingye/EatKano)
+源码在这里：[星夜](https://github.com/arcxingye)的[吃掉小鹿乃](https://github.com/arcxingye/EatKano)
