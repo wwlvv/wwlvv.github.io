@@ -341,11 +341,11 @@ function shareText(score) {
         return '倒计时多了' + ((deviation_time / 1000) - 20).toFixed(2) + "s";
     }
     SubmitResults();
-    if (score <= 49) return '就这';
-    if (score <= 99) return '是这样的';
-    if (score <= 149) return '那确实素质高';
-    if (score <= 199) return '你强的离谱';
-    return '神~神~';
+    if (score <= 49) return '膜拜的不够真诚呢';
+    if (score <= 99) return '膜拜还要再加把劲';
+    if (score <= 149) return 'xxbzzyw感受到了您的膜拜';
+    if (score <= 199) return 'xxbzzyw因为您的膜拜又变强了';
+    return '您和xxbzzyw一样神！';
 }
 
 function toStr(obj) {
